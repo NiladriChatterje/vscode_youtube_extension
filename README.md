@@ -1,4 +1,4 @@
-# niladriBlogSuggestions README
+# niladriYoutubeSuggestions README
 
 This is the README for your extension "niladriBlogSuggestions". After writing up a brief description, we recommend including the following sections.
 
